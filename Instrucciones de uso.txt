@@ -1,0 +1,5 @@
+Ver por consola usar:
+python main.py
+
+Ver por interfaz:
+python gui.py

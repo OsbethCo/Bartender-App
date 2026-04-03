@@ -1,0 +1,108 @@
+[
+  {
+    "nombre": "mojito",
+    "ingredientes": ["ron blanco", "zumo de lima", "azucar", "menta", "agua con gas", "hielo"],
+    "medidas": {
+      "ron blanco": "50 ml",
+      "zumo de lima": "30 ml",
+      "azucar": "2 cucharaditas",
+      "menta": "6-10 hojas",
+      "agua con gas": "al gusto",
+      "hielo": "al gusto"
+    },
+    "instrucciones": "Machaca la menta con azucar y lima. Agrega ron, hielo y completa con agua con gas."
+  },
+  {
+    "nombre": "old fashioned",
+    "ingredientes": ["bourbon", "azucar", "angostura bitters", "naranja"],
+    "medidas": {
+      "bourbon": "50 ml",
+      "azucar": "1 terron",
+      "angostura bitters": "2 gotas",
+      "naranja": "toque"
+    },
+    "instrucciones": "Machaca el azucar con bitters, añade bourbon y hielo, remueve y decora con naranja."
+  },
+  {
+    "nombre": "alexander",
+    "ingredientes": ["ginebra", "crema de cacao", "nata"],
+    "medidas": {
+      "ginebra": "30 ml",
+      "crema de cacao": "30 ml",
+      "nata": "30 ml"
+    },
+    "instrucciones": "Agita todo con hielo y sirve colado. Decora con nuez moscada."
+  },
+  {
+    "nombre": "daiquiri",
+    "ingredientes": ["ron blanco", "zumo de lima", "jarabe de azucar", "hielo"],
+    "medidas": {
+      "ron blanco": "50 ml",
+      "zumo de lima": "25 ml",
+      "jarabe de azucar": "10 ml",
+      "hielo": "al gusto"
+    },
+    "instrucciones": "Agita todo con hielo y cuela en copa fria."
+  },
+  {
+    "nombre": "tequila sunrise",
+    "ingredientes": ["tequila", "zumo de naranja", "granadina", "hielo"],
+    "medidas": {
+      "tequila": "50 ml",
+      "zumo de naranja": "120 ml",
+      "granadina": "15 ml",
+      "hielo": "al gusto"
+    },
+    "instrucciones": "Sirve tequila y zumo, agrega granadina al final para efecto visual."
+  },
+  {
+    "nombre": "long island iced tea",
+    "ingredientes": ["tequila", "ron", "vodka", "ginebra", "triple sec", "zumo de limon", "jarabe de azucar", "cola", "hielo"],
+    "medidas": {
+      "tequila": "15 ml",
+      "ron": "15 ml",
+      "vodka": "15 ml",
+      "ginebra": "15 ml",
+      "triple sec": "15 ml",
+      "zumo de limon": "25 ml",
+      "jarabe de azucar": "15 ml",
+      "cola": "chorro",
+      "hielo": "al gusto"
+    },
+    "instrucciones": "Agita todo menos la cola, sirve con hielo y añade cola."
+  },
+  {
+    "nombre": "margarita",
+    "ingredientes": ["tequila", "triple sec", "zumo de lima", "sal", "hielo"],
+    "medidas": {
+      "tequila": "50 ml",
+      "triple sec": "30 ml",
+      "zumo de lima": "20 ml",
+      "sal": "para escarchar",
+      "hielo": "al gusto"
+    },
+    "instrucciones": "Agita y sirve en vaso escarchado con sal."
+  },
+  {
+    "nombre": "cuba libre",
+    "ingredientes": ["ron", "cola", "limon", "hielo"],
+    "medidas": {
+      "ron": "60 ml",
+      "cola": "al gusto",
+      "limon": "gotas",
+      "hielo": "al gusto"
+    },
+    "instrucciones": "Sirve con hielo, añade ron, cola y limon."
+  },
+  {
+    "nombre": "gin tonic",
+    "ingredientes": ["ginebra", "tonica", "limon", "hielo"],
+    "medidas": {
+      "ginebra": "40 ml",
+      "tonica": "al gusto",
+      "limon": "toque",
+      "hielo": "al gusto"
+    },
+    "instrucciones": "Sirve con hielo, añade ginebra y completa con tonica."
+  }
+]
