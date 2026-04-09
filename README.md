@@ -1,2 +1,2 @@
 # app-bartender
-# integrantes Juan Ruiz, Moises Gonzales, Dovanny Perozo y Osbeth Colina
+# integrantes Juan Ruiz, Moises Gonzalez, Dovanny Perozo y Osbeth Colina
