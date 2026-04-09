@@ -1,11 +1,15 @@
+#se llama al archivo cocktails.json
 from file_manager import cargar_datos
 
+#normaliza convirtiendo todos caracteres a minusculas con .lower 
 def normalizar(texto):
     return texto.lower().strip()
 
+#verifica si el texto ingresado se encuentra dentro de algun parametro del .json
 def coincide(parcial, ingrediente):
     return parcial in ingrediente or ingrediente in parcial
 
+#determina que cocteles puedes hacer mediante un calculo de coincidencias
 def buscar_cocteles(ingredientes_usuario):
     data = cargar_datos()
     resultados = []
