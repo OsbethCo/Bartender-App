@@ -12,3 +12,4 @@ def cargar_datos():
 def guardar_datos(data):
     with open(ARCHIVO, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
+        
