@@ -6,7 +6,7 @@ def buscar():
 
     if entrada.strip() == "":
         resultado_text.delete("1.0", tk.END)
-        resultado_text.insert(tk.END, "⚠️ Ingresa ingredientes")
+        resultado_text.insert(tk.END, " Ingresa ingredientes")
         return
 
     ingredientes_usuario = [i.strip() for i in entrada.split(",")]
@@ -16,26 +16,26 @@ def buscar():
     resultado_text.delete("1.0", tk.END)
 
     if resultados:
-        resultado_text.insert(tk.END, "👨‍🍳 Cócteles completos:\n\n")
+        resultado_text.insert(tk.END, " Cócteles completos:\n\n")
         for c in resultados:
-            resultado_text.insert(tk.END, f"🍸 {c['nombre'].upper()}\n")
+            resultado_text.insert(tk.END, f" {c['nombre'].upper()}\n")
             for ing, medida in c["medidas"].items():
                 resultado_text.insert(tk.END, f"- {medida} de {ing}\n")
             resultado_text.insert(tk.END, f"{c['instrucciones']}\n\n")
 
     if sugerencias:
-        resultado_text.insert(tk.END, "\n💡 Puedes intentar:\n\n")
+        resultado_text.insert(tk.END, "Puedes intentar:\n\n")
         for c, faltantes in sugerencias:
-            resultado_text.insert(tk.END, f"👉 {c['nombre'].upper()}\n")
+            resultado_text.insert(tk.END, f" {c['nombre'].upper()}\n")
             resultado_text.insert(tk.END, f"Faltan: {', '.join(faltantes)}\n\n")
 
     if not resultados and not sugerencias:
-        resultado_text.insert(tk.END, "❌ No se encontró nada.")
+        resultado_text.insert(tk.END, " No se encontró nada.")
 
 
 # Ventana principal
 ventana = tk.Tk()
-ventana.title("🍸 Bartender Inteligente")
+ventana.title(" Bartender Inteligente")
 ventana.geometry("500x500")
 
 # Título
