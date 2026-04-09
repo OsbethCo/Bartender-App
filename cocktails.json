@@ -1,16 +1,16 @@
 [
   {
     "nombre": "mojito",
-    "ingredientes": ["ron blanco", "zumo de lima", "azucar", "menta", "agua con gas", "hielo"],
+    "ingredientes": ["ron blanco", "zumo de lima", "azucar", "menta", "agua con gas, soda o chinotto", "hielo"],
     "medidas": {
       "ron blanco": "50 ml",
       "zumo de lima": "30 ml",
       "azucar": "2 cucharaditas",
       "menta": "6-10 hojas",
-      "agua con gas": "al gusto",
+      "agua con gas, soda o chinotto": "al gusto",
       "hielo": "al gusto"
     },
-    "instrucciones": "Machaca la menta con azucar y lima. Agrega ron, hielo y completa con agua con gas."
+    "instrucciones": "Machaca la menta con azucar y lima. Agrega ron, hielo y completa con agua con gas, soda o chinotto."
   },
   {
     "nombre": "old fashioned",
@@ -73,11 +73,11 @@
   },
   {
     "nombre": "margarita",
-    "ingredientes": ["tequila", "triple sec", "zumo de lima", "sal", "hielo"],
+    "ingredientes": ["tequila", "triple sec", "zumo de limon", "sal", "hielo"],
     "medidas": {
       "tequila": "50 ml",
       "triple sec": "30 ml",
-      "zumo de lima": "20 ml",
+      "zumo de limon": "20 ml",
       "sal": "para escarchar",
       "hielo": "al gusto"
     },
@@ -140,12 +140,12 @@
   },
   {
     "nombre": "cosmopolitan",
-    "ingredientes": ["vodka", "triple sec", "zumo de arandanos", "zumo de lima", "hielo"],
+    "ingredientes": ["vodka", "triple sec", "zumo de arandanos", "zumo de limon", "hielo"],
     "medidas": {
       "vodka": "45 ml",
       "triple sec": "15 ml",
       "zumo de arandanos": "30 ml",
-      "zumo de lima": "10 ml",
+      "zumo de limon": "10 ml",
       "hielo": "al gusto"
     },
     "instrucciones": "Agita todos los ingredientes con hielo y cuela en copa fria."
@@ -177,11 +177,11 @@
   },
   {
     "nombre": "aperol spritz",
-    "ingredientes": ["aperol", "prosecco", "agua con gas", "hielo"],
+    "ingredientes": ["aperol", "prosecco", "agua con gas, soda o chinotto", "hielo"],
     "medidas": {
       "aperol": "60 ml",
       "prosecco": "90 ml",
-      "agua con gas": "30 ml",
+      "agua con gas, soda o chinotto": "30 ml",
       "hielo": "al gusto"
     },
     "instrucciones": "Sirve todos los ingredientes en un vaso con hielo y mezcla suavemente."
@@ -210,11 +210,11 @@
   },
   {
     "nombre": "paloma",
-    "ingredientes": ["tequila", "zumo de limon", "refresco de toronja", "hielo"],
+    "ingredientes": ["tequila", "zumo de limon", "refresco de naranja", "hielo"],
     "medidas": {
       "tequila": "50 ml",
       "zumo de limon": "15 ml",
-      "refresco de toronja": "al gusto",
+      "refresco de naranja": "al gusto",
       "hielo": "al gusto"
     },
     "instrucciones": "Sirve en vaso con hielo, añade tequila, limon y completa con refresco."
