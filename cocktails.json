@@ -104,5 +104,119 @@
       "hielo": "al gusto"
     },
     "instrucciones": "Sirve con hielo, añade ginebra y completa con tonica."
+  },
+  {
+    "nombre": "caipirinha",
+    "ingredientes": ["cachaca", "lima", "azucar", "hielo"],
+    "medidas": {
+      "cachaca": "50 ml",
+      "lima": "1 unidad",
+      "azucar": "2 cucharaditas",
+      "hielo": "al gusto"
+    },
+    "instrucciones": "Machaca la lima con el azucar, agrega la cachaca y el hielo. Mezcla bien."
+  },
+  {
+    "nombre": "whiskey sour",
+    "ingredientes": ["whiskey", "zumo de limon", "jarabe de azucar", "hielo"],
+    "medidas": {
+      "whiskey": "50 ml",
+      "zumo de limon": "25 ml",
+      "jarabe de azucar": "15 ml",
+      "hielo": "al gusto"
+    },
+    "instrucciones": "Agita todos los ingredientes con hielo y cuela en un vaso."
+  },
+  {
+    "nombre": "negroni",
+    "ingredientes": ["ginebra", "campari", "vermut rojo", "hielo"],
+    "medidas": {
+      "ginebra": "30 ml",
+      "campari": "30 ml",
+      "vermut rojo": "30 ml",
+      "hielo": "al gusto"
+    },
+    "instrucciones": "Mezcla todos los ingredientes con hielo y sirve en vaso corto."
+  },
+  {
+    "nombre": "cosmopolitan",
+    "ingredientes": ["vodka", "triple sec", "zumo de arandanos", "zumo de lima", "hielo"],
+    "medidas": {
+      "vodka": "45 ml",
+      "triple sec": "15 ml",
+      "zumo de arandanos": "30 ml",
+      "zumo de lima": "10 ml",
+      "hielo": "al gusto"
+    },
+    "instrucciones": "Agita todos los ingredientes con hielo y cuela en copa fria."
+  },
+  {
+    "nombre": "bloody mary",
+    "ingredientes": ["vodka", "zumo de tomate", "zumo de limon", "tabasco", "sal", "pimienta", "hielo"],
+    "medidas": {
+      "vodka": "45 ml",
+      "zumo de tomate": "90 ml",
+      "zumo de limon": "15 ml",
+      "tabasco": "2 gotas",
+      "sal": "al gusto",
+      "pimienta": "al gusto",
+      "hielo": "al gusto"
+    },
+    "instrucciones": "Mezcla todo en un vaso con hielo y remueve bien."
+  },
+  {
+    "nombre": "manhattan",
+    "ingredientes": ["whiskey", "vermut rojo", "angostura bitters", "hielo"],
+    "medidas": {
+      "whiskey": "50 ml",
+      "vermut rojo": "20 ml",
+      "angostura bitters": "2 gotas",
+      "hielo": "al gusto"
+    },
+    "instrucciones": "Remueve los ingredientes con hielo y sirve colado."
+  },
+  {
+    "nombre": "aperol spritz",
+    "ingredientes": ["aperol", "prosecco", "agua con gas", "hielo"],
+    "medidas": {
+      "aperol": "60 ml",
+      "prosecco": "90 ml",
+      "agua con gas": "30 ml",
+      "hielo": "al gusto"
+    },
+    "instrucciones": "Sirve todos los ingredientes en un vaso con hielo y mezcla suavemente."
+  },
+  {
+    "nombre": "pina colada",
+    "ingredientes": ["ron blanco", "crema de coco", "zumo de pina", "hielo"],
+    "medidas": {
+      "ron blanco": "50 ml",
+      "crema de coco": "30 ml",
+      "zumo de pina": "90 ml",
+      "hielo": "al gusto"
+    },
+    "instrucciones": "Licua todos los ingredientes hasta obtener una mezcla suave."
+  },
+  {
+    "nombre": "espresso martini",
+    "ingredientes": ["vodka", "licor de cafe", "cafe", "hielo"],
+    "medidas": {
+      "vodka": "50 ml",
+      "licor de cafe": "30 ml",
+      "cafe": "30 ml",
+      "hielo": "al gusto"
+    },
+    "instrucciones": "Agita todo con hielo y sirve colado en copa fria."
+  },
+  {
+    "nombre": "paloma",
+    "ingredientes": ["tequila", "zumo de limon", "refresco de toronja", "hielo"],
+    "medidas": {
+      "tequila": "50 ml",
+      "zumo de limon": "15 ml",
+      "refresco de toronja": "al gusto",
+      "hielo": "al gusto"
+    },
+    "instrucciones": "Sirve en vaso con hielo, añade tequila, limon y completa con refresco."
   }
 ]
