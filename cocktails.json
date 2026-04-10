@@ -1,16 +1,16 @@
 [
   {
     "nombre": "mojito",
-    "ingredientes": ["ron blanco", "zumo de lima", "azucar", "menta", "agua con gas, soda o chinotto", "hielo"],
+    "ingredientes": ["ron blanco", "zumo de limon", "azucar", "menta", "agua con gas, soda o chinotto", "hielo"],
     "medidas": {
       "ron blanco": "50 ml",
-      "zumo de lima": "30 ml",
+      "zumo de limon": "30 ml",
       "azucar": "2 cucharaditas",
       "menta": "6-10 hojas",
       "agua con gas, soda o chinotto": "al gusto",
       "hielo": "al gusto"
     },
-    "instrucciones": "Machaca la menta con azucar y lima. Agrega ron, hielo y completa con agua con gas, soda o chinotto."
+    "instrucciones": "Machaca la menta con azucar y limon. Agrega ron, hielo y completa con agua con gas, soda o chinotto."
   },
   {
     "nombre": "old fashioned",
@@ -35,10 +35,10 @@
   },
   {
     "nombre": "daiquiri",
-    "ingredientes": ["ron blanco", "zumo de lima", "jarabe de azucar", "hielo"],
+    "ingredientes": ["ron blanco", "zumo de limon", "jarabe de azucar", "hielo"],
     "medidas": {
       "ron blanco": "50 ml",
-      "zumo de lima": "25 ml",
+      "zumo de limon": "25 ml",
       "jarabe de azucar": "10 ml",
       "hielo": "al gusto"
     },
@@ -140,7 +140,7 @@
   },
   {
     "nombre": "cosmopolitan",
-    "ingredientes": ["vodka", "triple sec", "zumo de arandanos", "zumo de limon", "hielo"],
+    "ingredientes": ["vodka", "triple sec", "zumo de naranja", "zumo de limon", "hielo"],
     "medidas": {
       "vodka": "45 ml",
       "triple sec": "15 ml",
