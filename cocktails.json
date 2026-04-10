@@ -107,14 +107,14 @@
   },
   {
     "nombre": "caipirinha",
-    "ingredientes": ["cachaca", "lima", "azucar", "hielo"],
+    "ingredientes": ["cachaca", "limon", "azucar", "hielo"],
     "medidas": {
       "cachaca": "50 ml",
-      "lima": "1 unidad",
+      "limon": "1 unidad",
       "azucar": "2 cucharaditas",
       "hielo": "al gusto"
     },
-    "instrucciones": "Machaca la lima con el azucar, agrega la cachaca y el hielo. Mezcla bien."
+    "instrucciones": "Machaca la limon con el azucar, agrega la cachaca y el hielo. Mezcla bien."
   },
   {
     "nombre": "whiskey sour",
