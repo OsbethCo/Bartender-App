@@ -57,7 +57,7 @@
   },
   {
     "nombre": "long island iced tea",
-    "ingredientes": ["tequila", "ron", "vodka", "ginebra", "triple sec", "zumo de limon", "jarabe de azucar", "cola", "hielo"],
+    "ingredientes": ["tequila", "ron", "vodka", "ginebra", "triple sec", "zumo de limon", "jarabe de azucar", "cola cola o pepsi", "hielo"],
     "medidas": {
       "tequila": "15 ml",
       "ron": "15 ml",
