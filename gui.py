@@ -35,7 +35,7 @@ def buscar():
 
 # Ventana principal
 ventana = tk.Tk()
-ventana.title(" Bartender Inteligente")
+ventana.title(" Ayudante de Bartender")
 ventana.geometry("500x500")
 
 # Título
